@@ -143,6 +143,7 @@ Use Case:
 
 
 
+
 2️⃣ Classification Model – Visit Mode Prediction
 
 This model predicts how a user is likely to travel. 
@@ -180,6 +181,8 @@ Use Case:
 - Targeted tourism marketing campaigns
 - Travel package personalization
 - Better resource planning for tourism businesses
+
+
 
 
 
