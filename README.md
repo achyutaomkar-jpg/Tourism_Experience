@@ -109,7 +109,7 @@ Feature Engineering:
 ## 🤖 Machine Learning Models
 
 The project implements three types of machine learning tasks.
-
+---
 1️⃣ Regression Model – Attraction Rating Prediction
 
 This model predicts the rating a user may give to a tourist attraction.
@@ -142,7 +142,7 @@ Use Case:
 - Suggest attractions that better match user preferences
 
 
-
+---
 
 2️⃣ Classification Model – Visit Mode Prediction
 
@@ -185,7 +185,7 @@ Use Case:
 
 
 
-
+---
 3️⃣ Recommendation System – Tourist Attraction Suggestions
 
 A recommendation system suggests tourist attractions based on user preferences.
