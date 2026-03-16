@@ -272,7 +272,9 @@ Evaluate using:
 - Build collaborative filtering recommendation system
 - Create user–item matrix
 - Generate personalized attraction recommendations
-
+  
+---
+Open the pages folder to acess the code for streamlit application
 5️⃣ Run app.py
 - Launch the Streamlit web application.
 - streamlit run app.py
