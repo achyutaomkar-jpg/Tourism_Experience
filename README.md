@@ -243,7 +243,7 @@ Exploratory Data Analysis:
 - Visualization of tourism trends
 - User demographic analysis
 - Attraction popularity insights
-
+---
 2️⃣ Run Regression_Model.ipynb
 - Build rating prediction model
 - Train regression algorithms
@@ -252,7 +252,7 @@ Evaluate model performance using:
 - R² Score
 - Mean Squared Error
 - Mean Absolute Error
-
+---
 3️⃣ Run classification_model.ipynb
 
 Build visit mode Classification_Model
@@ -266,8 +266,8 @@ Evaluate using:
 - Precision
 - Recall
 - F1 Score
-  
 
+---
 4️⃣ Run Recommendation_Model.ipynb
 - Build collaborative filtering recommendation system
 - Create user–item matrix
@@ -275,6 +275,7 @@ Evaluate using:
   
 ---
 Open the pages folder to acess the code for streamlit application
+
 5️⃣ Run app.py
 - Launch the Streamlit web application.
 - streamlit run app.py
